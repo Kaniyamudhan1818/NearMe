@@ -35,8 +35,6 @@ map.html
         <h1 align="center">
             <font color="blue"><b>VELLORE</b></font>
         </h1>
-        <h2 align="center">
-            <font color="red"><b> G P HARIESH (24900267)</b></font> </h2>
         <h3 align="center">
             <img src="map 1.png" usemap="#image-map" width="1473" height="700">
             <map name="image-map">
